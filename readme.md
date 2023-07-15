@@ -1,4 +1,4 @@
-<video controls>
-  <source src="VIDEO_URL" type="RCNN.mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/JayanthBontha/mask-flask/assets/112277163/172351bd-280f-4c83-bf2d-bd769dd14136
+
